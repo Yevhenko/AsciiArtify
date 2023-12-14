@@ -24,6 +24,11 @@ Strategic Choice: Selected for its efficacy in preparing Proof of Concept (PoC) 
 
 Advantages and Disadvantages.
 
+| Criteria | Kind | k3d | Podman | Minikube |
+|----------|----------|----------|----------|----------|
+| Advantages | Versatility across operating systems, operation within Docker containers, suitable for local testing. | Functional on multiple operating systems, utilizes Rancher Kubernetes Engine (RKE) in Docker containers, chosen for Proof of Concept (PoC) preparation. | Cross-platform compatibility, lightweight and daemonless container management, suitable for development and testing. | Compatibility with multiple operating systems, automated cluster creation and management. |
+| Disadvantages | Specific use case for local testing purposes. | Emphasized for PoC, efficiency in quick creation and testing of Kubernetes clusters. | Lacks certain features present in Docker, may have a learning curve for those accustomed to Do | Concerns about scalability limitations. |
+
 Demo.
 
 Conclusion.
