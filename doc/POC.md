@@ -29,7 +29,7 @@ Instruction to get access to the interface of argocd.
 `kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}"|base64 -d;echo`
 
 8. Then go to 127.0.0.1:8080 and use "advance" settings:
-![Demo]()
+![Demo](https://github.com/Yevhenko/AsciiArtify/blob/main/demo1.gif)
 
 9. Use password for "password" and "admin" for "login". We are in:
 ![Screenshot 1]()
