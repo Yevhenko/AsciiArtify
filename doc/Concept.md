@@ -31,6 +31,8 @@ Advantages and Disadvantages.
 
 Demo.
 
+![Demo](https://github.com/Yevhenko/AsciiArtify/blob/main/demo.gif)
+
 Conclusion.
 
 If scalability is a primary concern and a comprehensive solution for local development and testing is required, Minikube might be a suitable choice despite the scalability considerations. If versatility and the ability to work within Docker containers for local testing are crucial, Kind could be a preferred option. If the focus is on preparing Proof of Concept initiatives efficiently, k3d stands out as a strategic choice.
