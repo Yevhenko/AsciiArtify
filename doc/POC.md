@@ -32,5 +32,5 @@ Instruction to get access to the interface of argocd.
 ![Demo](https://github.com/Yevhenko/AsciiArtify/blob/main/demo1.gif)
 
 9. Use password for "password" and "admin" for "login". We are in:
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](https://github.com/Yevhenko/AsciiArtify/blob/main/screenshots/Screenshot%20from%202023-12-14%2015-48-14.png)
+![Screenshot 2](https://github.com/Yevhenko/AsciiArtify/blob/main/screenshots/Screenshot%20from%202023-12-14%2015-48-32.png)
